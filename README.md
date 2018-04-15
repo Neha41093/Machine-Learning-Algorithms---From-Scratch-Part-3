@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms---From-Scratch-Part-3
-Decision Trees
+Decision Trees, Apriori Algorithm
